@@ -10,7 +10,7 @@ function mapletters(str) {
 		tempObj[str[i]]=[i];
 	}
 	}
-alert(tempObj);
+return tempObj;
 }
 //let str=prompt();
 let obj={e:3,t:5};
