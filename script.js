@@ -13,5 +13,5 @@ function mapletters(str) {
 return tempObj;
 }
 //let str=prompt();
-let obj={e:3,t:5};
+
 mapletters("dodo");
