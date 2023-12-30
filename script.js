@@ -10,7 +10,8 @@ function mapletters(str) {
 		tempObj[str[i]]=[i];
 	}
 	}
-return tempObj;
+alert(tempObj);
 }
-
-alert(mapletters("dodo"));
+//let str=prompt();
+let obj={e:3,t:5};
+mapletters("dodo");
