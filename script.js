@@ -12,6 +12,6 @@ function mapletters(str) {
 	}
 return tempObj;
 }
-//let str=prompt();
+let str=prompt();
 
 alert(mapletters(str));
