@@ -1,7 +1,7 @@
 //your JS code here. If required.
 function mapletters(str) {
 	let tempObj={};
-	str=str.tolowercase();
+	str=str.toLowerCase();
 	for(let i=0;i<str.length;i++){
 	if(tempObj[str[i]]){
 		tempObj[str[i]].push(i);
